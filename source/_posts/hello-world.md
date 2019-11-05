@@ -2,12 +2,11 @@
 title: Hello World
 date: 日期 # 自动创建，如 2019-09-22 01:47:21
 tags: 
-- 标签1
-- 标签2
-- 标签3
+- markdown
+- hexo
 categories:
-- 分类1
-- 分类2
+- 其他
+- hexo
 ---
 Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
